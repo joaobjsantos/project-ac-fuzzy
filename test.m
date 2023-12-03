@@ -1,0 +1,1 @@
+FISMAT = readfis('mamdanitype1Controller');
