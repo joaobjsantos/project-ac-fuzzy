@@ -1,0 +1,12 @@
+mamdani9 = readfis('mamdani9.fis');
+mamdani25 = readfis('mamdani25.fis');
+mamdani49 = readfis('mamdani49.fis');
+mamdani9_gauss = readfis('mamdani9_gauss.fis');
+mamdani25_gauss = readfis('mamdani25_gauss.fis');
+mamdani49_gauss = readfis('mamdani49_gauss.fis');
+sugeno9 = readfis('sugeno9.fis');
+sugeno25 = readfis('sugeno25.fis');
+sugeno49 = readfis('sugeno49.fis');
+sugeno9_gauss = readfis('sugeno9_gauss.fis');
+sugeno25_gauss = readfis('sugeno25_gauss.fis');
+sugeno49_gauss = readfis('sugeno49_gauss.fis');
